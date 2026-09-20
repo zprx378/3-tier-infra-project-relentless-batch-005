@@ -1,1 +1,1 @@
-# This README file covers documentation for the 3 tier terraform project 
+# This README file covers documentation for the 3 tier AWS terraform project 
